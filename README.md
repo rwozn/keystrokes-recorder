@@ -9,5 +9,3 @@ Features:
   - writes recorded keystrokes to a file, along with the window name
 
 In short, whatever text you type in will be recorded in the same form.
-
-![Demo](demo.gif)
