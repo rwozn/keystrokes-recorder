@@ -5,7 +5,7 @@ Features:
   - supports every keyboard layout
   - supports changing keyboard layout during typing
   - supports ligatures and dead keys
-  - reacts correctly to all key modifiers (alt, ctrl, shift, caps lock etc.)
+  - reacts correctly to all modifier keys (alt, ctrl, shift, caps lock etc.)
   - writes recorded keystrokes to a file, along with the window name
 
 In short, whatever text you type in will be recorded in the same form.
