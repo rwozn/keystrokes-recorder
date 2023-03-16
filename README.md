@@ -10,4 +10,4 @@ Features:
 
 In short, whatever text you type in will be recorded in the exact same form.
 
-![Demo](https://user-images.githubusercontent.com/127620405/225737635-0f1e0d25-afd4-40cb-904b-6d2d70913195.png)
+![Demo](demo.gif)
