@@ -8,6 +8,6 @@ Features:
   - reacts correctly to all modifier keys (alt, ctrl, shift, caps lock etc.)
   - writes recorded keystrokes to a file, along with the window name
 
-In short, whatever text you type in will be recorded in the same form.
+In short, whatever text you type in will be recorded in the exact same form.
 
-![Demo](demo.gif)
+![Demo](https://user-images.githubusercontent.com/127620405/225737635-0f1e0d25-afd4-40cb-904b-6d2d70913195.png)
